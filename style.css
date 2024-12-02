@@ -1,0 +1,11 @@
+		body{
+			background-image:url(https://i.pinimg.com/736x/f6/ad/e8/f6ade8bfac004f680239861132f52e4e.jpg) ;
+			background-size: 100%;	
+			background-repeat: none;
+		}
+		.container{
+
+			background-color:hotpink;
+			opacity: 90%;
+
+		}
